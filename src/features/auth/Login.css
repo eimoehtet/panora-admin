@@ -1,0 +1,30 @@
+.main{
+    background-color:#f8f8f8;
+    
+}
+.form-container{
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.625rem;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.form{
+    min-height: 300px;
+    padding: 30px;
+}
+.header{
+    padding-top: 15px;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.setting {
+  float:right;
+  padding-top: 2px;
+  padding-right:40px;
+ 
+}
